@@ -1,0 +1,10 @@
+1. adventurous	brave and willing to takeriscs, fearless, heroic
+2. bossy	who keeps telling other people what to do in way that annoys them, domineering
+3. cautious	careful to avoid problems or danger
+4. creative	involving a lot of imagination and new ideas, imaginative, inventive
+5. energetic	lively, active, dynamic
+6. generous	open-handed, selfless,kind-hearted
+7. moody	likely to become unhappy of angry for no particular reason
+8. organised	a person, who plans activities carefully and effectivelly
+9. quiet	who are not talking much, silent, shy
+10. reliable	who you can trust to behave well, work hard or do what you expect him to do, responsible
